@@ -1,0 +1,46 @@
+
+
+h1, h2, h3{
+    color: red;
+}
+
+h3{
+    font-style: italic;
+}
+
+ol, ul{
+    color: brown;
+}
+
+.strike{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+
+.highlight{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.underline{
+    text-decoration: underline;
+    font-style: italic;
+}
+
+ol{
+    line-height: 45px;
+}
+
+.laterspace{
+    letter-spacing: 5px;
+}
+
+p{
+    color: rgb(121, 35, 13);
+}
+
+.anc{
+    text-decoration: none;
+    color: red;
+    font-style: italic;
+}
